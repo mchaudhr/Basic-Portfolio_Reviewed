@@ -102,6 +102,11 @@ nav a:first-child {
     border: 1px solid #ddd;
 }
 
+.profile-image {
+    float: left;
+    padding-right: 30px;
+}
+
 .auth-image {
     width: 274px;
     height: 200px;
